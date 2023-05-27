@@ -297,4 +297,5 @@ class Action
 				return json_encode(array('status' => 1));
 			}
 		}
-	
+	}
+}
